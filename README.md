@@ -2,7 +2,7 @@
 A programming homework of cloud computing lesson.
 ## Spark 课后练习
 ### 具体任务:
-1) 求出输入数据中最多人喜欢的水果<\br>
+1) 求出输入数据中最多人喜欢的水果</br>
 2) 以及喜欢这种水果的人有哪些</br>
 ### 任务说明:</br>
 1) 输入数据已给出,每行分别代表一个人以及他喜欢的水果</br>
